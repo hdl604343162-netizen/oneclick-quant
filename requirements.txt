@@ -1,0 +1,11 @@
+streamlit
+matplotlib
+numpy
+pandas
+aiohttp
+requests
+reportlab
+# Optional Parquet engines (only if your Python has wheels):
+# fastparquet
+# pyarrow
+pyinstaller
